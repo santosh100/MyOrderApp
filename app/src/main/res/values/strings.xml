@@ -1,0 +1,18 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">MyOrder</string>
+    <string name="name">Name</string>
+    <string name="topping">toppings</string>
+    <string name="whipped">Whipped Cream</string>
+    <string name="chocolate">Chocolate Cream</string>
+    <string name="create_summary_whipped">Whipped Cream : <xliff:g>%b</xliff:g></string>
+    <string name="create_summary_chocolate">Chocolate Cream : <xliff:g>%b</xliff:g></string>
+    <string name="quantity">quantity</string>
+    <string name="order">order</string>
+    <string name="message_coffee_upper_limit">You cannot have more than 10 coffees</string>
+    <string name="message_coffee_lower_limit">Order can never be less than Zero</string>
+    <string name="client_name">Name : <xliff:g>%s</xliff:g></string>
+    <string name="total_order">Total Number of Order : <xliff:g>%d</xliff:g></string>
+    <string name="price">Price : <xliff:g>%s</xliff:g></string>
+    <string name="thanks">Thank You !</string>
+</resources>
+
